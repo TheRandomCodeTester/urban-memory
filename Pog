@@ -1,0 +1,22 @@
+Name: Hair Blob
+
+Stats: 420.69 hp
+Energy: 600
+Speed: 100
+
+Damage Dealing:
+Normal Attack: 45 damage
+Charged Attack: 90 damage
+
+Skills:
+Annoying: Takes out 25% of opponents max HP. Requires 300 energy
+Burning Hair: Apply's affect Burning Hair. Requires 80 energy
+Hair Knife: Deflects all incoming damage. The incoming damage has to be over 200. Requires opponent to have less then 200 energy, requires 230 energy
+Rest: Regains 50 energy each time and deals 20 damage to the foe. Requires less than 55 energy
+Passive Skill: Life Steal. On lower than 70 health all damage you deal you steal.
+
+
+Ultimate: All for one, removes 1 skill. Requires less than 300.
+
+Passive Skills:
+Burning Hair: heals 4% of health every 2 turns 
